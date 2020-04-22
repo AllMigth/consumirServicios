@@ -1,0 +1,16 @@
+{
+"users": [
+    {"id": 1, "name": "Juan Garzon","username":"Nozrag","email":"jgarzon292@gmail.com","image":"https://i.ibb.co/ZH7356D/cody.jpg"},
+    {"id": 2, "name": "Pedro Garzon","username":"Nozrag","email":"jgarzon292@gmail.com","image":"https://i.ibb.co/ZH7356D/cody.jpg"},
+    {"id": 3, "name": "Gerry Garzon","username":"Nozrag","email":"jgarzon292@gmail.com","image":"https://i.ibb.co/ZH7356D/cody.jpg"}
+    ],
+  "posts": [
+    { "id": 1, "title": "Importancia del cuidado personal","body": "Es importante mejorar tu cuerpo, crear un mejor tu cada dia", "userId": 1},
+    { "id": 2, "title": "Importancia del cuidado social", "body": "Es importante mejorar tu social, crear un mejor social cada dia", "userId": 1},
+    { "id": 3, "title": "Importancia del cuidado mental","body": "Es importante mejorar tu mental, crear un mejor mental cada dia", "userId": 3}
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ]
+}
