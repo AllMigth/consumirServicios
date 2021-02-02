@@ -1,16 +1,30 @@
-{
-"users": [
-    {"id": 1, "name": "Juan Garzon","username":"Nozrag","email":"jgarzon292@gmail.com","image":"https://i.ibb.co/ZH7356D/cody.jpg"},
-    {"id": 2, "name": "Pedro Salazar","username":"Nozrag","email":"jgarzon292@gmail.com","image":"https://i.ibb.co/ZH7356D/cody.jpg"},
-    {"id": 3, "name": "Gerardo Sanchez","username":"Nozrag","email":"jgarzon292@gmail.com","image":"https://i.ibb.co/ZH7356D/cody.jpg"}
-    ],
-  "posts": [
-    { "id": 1, "title": "TC123","body": "Terreno de 20x26", "userId": 1},
-    { "id": 2, "title": "TR456", "body": "Terreno para vivienda", "userId": 1},
-    { "id": 2, "title": "TC789","body": "Terreno para edificio", "userId": 2}
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ]
-}
+ [
+   {
+    "albumId": 1,
+    "id": 1,
+    "title": "accusamus beatae ad facilis cum similique qui sunt",
+    "url": "https://via.placeholder.com/600/92c952",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+  },
+  {
+    "albumId": 1,
+    "id": 2,
+    "title": "reprehenderit est deserunt velit ipsam",
+    "url": "https://via.placeholder.com/600/771796",
+    "thumbnailUrl": "https://via.placeholder.com/150/771796"
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "officia porro iure quia iusto qui ipsa ut modi",
+    "url": "https://via.placeholder.com/600/24f355",
+    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+  },
+  {
+    "albumId": 1,
+    "id": 4,
+    "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+    "url": "https://via.placeholder.com/600/d32776",
+    "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+  }
+ ]
